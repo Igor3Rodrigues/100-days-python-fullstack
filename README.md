@@ -28,10 +28,10 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📂 Código: hello_world.py
 
 📅 Dia 1 - 01/05/2025
-✅ Estudei: Variáveis, tipos de dados fundamentais (int, float, str, bool), funções input() e print();
-💻 Pratiquei: Criação de um programa que recebe dados do usuário e exibe informações formatadas com f-strings;
-🧠 Dificuldade: 2/10;
-📘 Recursos: Curso em Vídeo Python, W3Schools, vídeos no YouTube sobre tipos de dados e entrada/saída;
+✅ Estudei: Variáveis, tipos de dados fundamentais (int, float, str, bool), funções input() e print();<br>
+💻 Pratiquei: Criação de um programa que recebe dados do usuário e exibe informações formatadas com f-strings;<br>
+🧠 Dificuldade: 2/10;<br>
+📘 Recursos: Curso em Vídeo Python, W3Schools, vídeos no YouTube sobre tipos de dados e entrada/saída;<br>
 📂 Código: dados_usuario.py
 
 ---
