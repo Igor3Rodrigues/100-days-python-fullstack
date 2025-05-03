@@ -40,7 +40,7 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 ✅ Estudei: Estruturas condicionais em Python (`if`, `elif`, `else`) e operadores de comparação;<br>
 💻 Pratiquei: Criação de um verificador de idade com resposta personalizada;<br>
 🧠 Dificuldade: 2/10;<br>
-📘 Recursos: Curso em Vídeo Python, W3Schools, vídeos sobre condicionais em Python;<br>  
+📘 Recursos: Curso em Vídeo Python, W3Schools, vídeos sobre condicionais em Python;  
 📂 Código: verificador_idade.py  
 
 ---
