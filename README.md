@@ -27,8 +27,12 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: Documentação do Python, tutoriais de GitHub;<br>
 📂 Código: hello_world.py
 
+<<<<<<< HEAD
 ### 📅 Dia 1 - 01/05/2025
 
+=======
+📅 Dia 1 - 01/05/2025
+>>>>>>> b3d6f434834f276661fbc97ccf0ae9e68274e4f6
 ✅ Estudei: Variáveis, tipos de dados fundamentais (int, float, str, bool), funções input() e print();<br>
 💻 Pratiquei: Criação de um programa que recebe dados do usuário e exibe informações formatadas com f-strings;<br>
 🧠 Dificuldade: 2/10;<br>
