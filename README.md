@@ -43,6 +43,14 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: Curso em Vídeo Python, W3Schools, vídeos sobre condicionais em Python;  
 📂 Código: verificador_idade.py  
 
+### 📅 Dia 3 - 03/05/2025
+ 
+✅ Estudei: Laços de repetição em Python (for e while);<br>
+💻 Pratiquei: Iteração com listas usando for e repetição com condição usando while; <br>
+🧠 Dificuldade: 3/10; <br>
+📘 Recursos: Curso em Vídeo Python, W3Schools, exercícios práticos;  
+📂 Código: lacos_repeticao.py  
+
 ---
 
 ## 🛠️ Tecnologias
