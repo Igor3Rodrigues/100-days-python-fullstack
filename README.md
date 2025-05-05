@@ -59,6 +59,14 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: Curso em Vídeo Python, W3Schools, Python Docs;  
 📂 Código: listas_e_dicionarios.py 
 
+### 📅 Dia 5 - 05/05/2025  
+
+✅ Estudei: Criação e uso de funções em Python, com parâmetros e retorno;  
+💻 Pratiquei: Criação de funções `somar()` e `mostrar_resultado()` com entrada de dados do usuário;  
+🧠 Dificuldade: 3/10;  
+📘 Recursos: Curso em Vídeo Python, W3Schools, Python Docs;  
+📂 Código: funcoes_soma.py  
+
 ---
 
 ## 🛠️ Tecnologias
