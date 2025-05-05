@@ -46,16 +46,16 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 ### 📅 Dia 3 - 03/05/2025
  
 ✅ Estudei: Laços de repetição em Python (for e while);<br>
-💻 Pratiquei: Iteração com listas usando for e repetição com condição usando while; <br>
-🧠 Dificuldade: 3/10; <br>
+💻 Pratiquei: Iteração com listas usando for e repetição com condição usando while;<br>
+🧠 Dificuldade: 3/10;<br>
 📘 Recursos: Curso em Vídeo Python, W3Schools, exercícios práticos;  
 📂 Código: lacos_repeticao.py  
 
 ### 📅 Dia 4 - 04/05/2025 
 
-✅ Estudei: Estruturas de dados — listas e dicionários;<br>  
-💻 Pratiquei: Adição, remoção e iteração de listas; acesso e modificação de dicionários;<br>  
-🧠 Dificuldade: 3/10;<br>  
+✅ Estudei: Estruturas de dados — listas e dicionários;  
+💻 Pratiquei: Adição, remoção e iteração de listas; acesso e modificação de dicionários;  
+🧠 Dificuldade: 3/10;  
 📘 Recursos: Curso em Vídeo Python, W3Schools, Python Docs;  
 📂 Código: listas_e_dicionarios.py 
 
