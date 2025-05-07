@@ -67,6 +67,14 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: Curso em Vídeo Python, W3Schools, Python Docs;  
 📂 Código: funcoes_soma.py  
 
+### 📅 Dia 6 - 06/05/2025  
+
+✅ Estudei: Manipulação de arquivos em Python (open, write, read, append);  
+💻 Pratiquei: Criação de um arquivo `.txt`, escrita de dados, leitura e adição de novas linhas;  
+🧠 Dificuldade: 3/10;  
+📘 Recursos: Curso em Vídeo Python, W3Schools, Documentação oficial do Python;  
+📂 Código: manipulacao_arquivos.py  
+
 ---
 
 ## 🛠️ Tecnologias
