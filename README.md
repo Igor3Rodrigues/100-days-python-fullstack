@@ -75,6 +75,14 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: Curso em Vídeo Python, W3Schools, Documentação oficial do Python;  
 📂 Código: manipulacao_arquivos.py  
 
+### 📅 Dia 7 - 07/05/2025  
+
+✅ Estudei: Tratamento de exceções com try/except em Python;  
+💻 Pratiquei: Captura de erros de divisão por zero e índices inválidos em listas;  
+🧠 Dificuldade: 4/10;  
+📘 Recursos: Curso em Vídeo Python, W3Schools, Documentação do Python;  
+📂 Código: tratamento_excecoes.py  
+
 ---
 
 ## 🛠️ Tecnologias
