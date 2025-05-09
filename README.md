@@ -83,6 +83,14 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: Curso em Vídeo Python, W3Schools, Documentação do Python;  
 📂 Código: tratamento_excecoes.py  
 
+### 📅 Dia 8 - 08/05/2025  
+
+✅ Estudei: Criação de mini-projetos CLI com Python e uso de funções;  
+💻 Pratiquei: Desenvolvimento de uma calculadora simples com soma, subtração, multiplicação e divisão;  
+🧠 Dificuldade: 5/10;  
+📘 Recursos: Curso em Vídeo Python, W3Schools, documentação oficial do Python;  
+📂 Código: calculadora_cli.py  
+
 ---
 
 ## 🛠️ Tecnologias
