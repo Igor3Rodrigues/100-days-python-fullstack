@@ -91,6 +91,14 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: Curso em Vídeo Python, W3Schools, documentação oficial do Python;  
 📂 Código: calculadora_cli.py  
 
+### 📅 Dia 9 - 09/05/2025  
+
+✅ Estudei: Revisão de funções e estruturas de dados (listas e dicionários), além de refatoração de código;  
+💻 Pratiquei: Refatorei a calculadora CLI para torná-la mais modular e adicionei histórico com uso de listas e dicionários;  
+🧠 Dificuldade: 4/10  
+📘 Recursos: Curso em Vídeo, Python Docs, Dev Aprender (YouTube)  
+📂 Código: calculadora_com_historico.py  
+
 ---
 
 ## 🛠️ Tecnologias
