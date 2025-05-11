@@ -99,6 +99,14 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: Curso em Vídeo, Python Docs, Dev Aprender (YouTube)  
 📂 Código: calculadora_com_historico.py  
 
+### 📅 Dia 10 - 10/05/2025  
+
+✅ Estudei: Revisão dos conceitos de funções, listas, dicionários, e controle de fluxo (condições e laços);  
+💻 Pratiquei: Refatoração do código da calculadora para adicionar funcionalidades de histórico de operações e uma opção de sair do programa;  
+🧠 Dificuldade: 5/10  
+📘 Recursos: Documentação do Python, cursos de desenvolvimento de software (YouTube);  
+📂 Código: calculadora_com_historico_e_sair.py  
+
 ---
 
 ## 🛠️ Tecnologias
