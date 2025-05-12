@@ -107,6 +107,14 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: Documentação do Python, cursos de desenvolvimento de software (YouTube);  
 📂 Código: calculadora_com_historico_e_sair.py  
 
+### 📅 Dia 11 - 11/05/2025
+
+✅ Estudei: Introdução à Programação Orientada a Objetos em Python (POO);  
+💻 Pratiquei: Criação de uma classe `Carro` com atributos (modelo, cor, ano) e métodos (`exibir_detalhes`, `ligar`, `desligar`);  
+🧠 Dificuldade: 4/10  
+📘 Recursos: Curso em Vídeo Python, W3Schools, Python Docs;  
+📂 Código: carro_poo_basico.py  
+
 ---
 
 ## 🛠️ Tecnologias
