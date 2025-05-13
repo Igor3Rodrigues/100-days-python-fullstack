@@ -115,6 +115,14 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: Curso em Vídeo Python, W3Schools, Python Docs;  
 📂 Código: carro_poo_basico.py  
 
+### 📅 Dia 12 - 12/05/2025 
+ 
+✅ Estudei: Métodos em classes Python — criação e uso para manipular dados do objeto;  
+💻 Pratiquei: Criei a classe `Pessoa` com métodos para alterar e exibir informações de nome e idade;  
+🧠 Dificuldade: 4/10  
+📘 Recursos: Curso em Vídeo Python, Python Docs, W3Schools  
+📂 Código: pessoa_metodos.py  
+
 ---
 
 ## 🛠️ Tecnologias
