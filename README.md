@@ -123,6 +123,14 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: Curso em Vídeo Python, Python Docs, W3Schools  
 📂 Código: pessoa_metodos.py  
 
+### 📅 Dia 13 - 13/05/2025  
+
+✅ Estudei: Herança em Programação Orientada a Objetos com Python;  
+💻 Pratiquei: Criei uma classe `Animal` e outra `Cachorro`, que herda de `Animal`;  
+🧠 Dificuldade: 5/10  
+📘 Recursos: Curso em Vídeo Python, W3Schools, Documentação oficial do Python  
+📂 Código: heranca_animal.py  
+
 ---
 
 ## 🛠️ Tecnologias
