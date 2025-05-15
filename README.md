@@ -131,6 +131,14 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: Curso em Vídeo Python, W3Schools, Documentação oficial do Python  
 📂 Código: heranca_animal.py  
 
+### 📅 Dia 14 - 14/05/2025  
+
+✅ Estudei: Organização de código em projetos Python  
+📁 Pratiquei: Estruturei um mini-projeto de calculadora com pastas: utils, models e data  
+🧠 Dificuldade: 4/10  
+📘 Recursos: Curso em Vídeo Python, Documentação Python, W3Schools  
+📂 Código: projeto_calculadora/  
+
 ---
 
 ## 🛠️ Tecnologias
