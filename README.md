@@ -139,6 +139,22 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: Curso em Vídeo Python, Documentação Python, W3Schools  
 📂 Código: projeto_calculadora/  
 
+### 📅 Dia 15 - 15/05/2025  
+
+✅ Estudei: Programação Orientada a Objetos (POO) com Python  
+📁 Pratiquei: Criação de um mini-projeto CLI para gerenciamento de contatos com classes, objetos e métodos  
+🧠 Dificuldade: 5/10  
+📘 Recursos: Curso em Vídeo Python, W3Schools, Documentação Python  
+📂 Código: agenda_de_contatos/
+
+### 📅 Dia 16 - 16/05/2025  
+
+✅ Estudei: Fundamentos do framework Flask e criação de servidor web local  
+📁 Pratiquei: Primeira rota usando `@app.route` retornando uma mensagem simples no navegador  
+🧠 Dificuldade: 3/10  
+📘 Recursos: Flask Docs, Curso em Vídeo  
+📂 Código: primeiro_app_flask.py
+
 ---
 
 ## 🛠️ Tecnologias
