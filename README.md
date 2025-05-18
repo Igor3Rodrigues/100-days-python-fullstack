@@ -155,6 +155,13 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: Flask Docs, Curso em Vídeo  
 📂 Código: primeiro_app_flask.py
 
+### 📅 Dia 17 - 17/05/2025
+
+✅ Estudei: Rotas múltiplas no Flask e ativação do modo debug
+📁 Pratiquei: Criação das rotas /sobre, /contato e /servicos, cada uma com conteúdo próprio
+🧠 Dificuldade: 3/10
+📘 Recursos: Flask Docs
+📂 Código: mini_site_flask.py
 ---
 
 ## 🛠️ Tecnologias
