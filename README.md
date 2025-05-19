@@ -15,6 +15,16 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 - Funções, arquivos, exceções
 - Mini-projeto CLI (ex: calculadora)
 
+### ✅ Dias 11–15: POO e Estrutura de Projetos
+- Classes, métodos, herança
+- Organização de projetos com pastas
+- Projeto CLI orientado a objetos
+
+### ✅ Dias 16–25: Flask + Frontend Básico
+- Rotas, templates Jinja2
+- Formulários, Bootstrap
+- Projeto: Blog básico com Flask
+
 ---
 
 ## 📝 Log Diário
@@ -162,6 +172,15 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 🧠 Dificuldade: 3/10
 📘 Recursos: Flask Docs
 📂 Código: mini_site_flask.py
+
+### 📅 Dia 18 - 18/05/2025
+
+✅ Estudei: Templates com Flask e HTML dinâmico com Jinja2
+📁 Pratiquei: Criação e renderização de templates usando `render_template()`, passando variáveis dinâmicas com `{{ }}`  
+🧠 Dificuldade: 4/10
+📘 Recursos: Flask Docs, Curso em Vídeo, W3Schools
+📂 Código: meu_site/
+
 ---
 
 ## 🛠️ Tecnologias
