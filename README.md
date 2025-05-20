@@ -181,6 +181,14 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: Flask Docs, Curso em Vídeo, W3Schools
 📂 Código: meu_site/
 
+### 📅 Dia 18 - 18/05/2025
+
+✅ Estudei: Herança de templates, DRY (Don't Repeat Yourself) - Reutilizei templates com Jinja2 no Flask! 
+📁 Pratiquei: Criação de base.html e herança com `{% extends %}`
+🧠 Dificuldade: 4/10
+📘 Recursos: Flask Docs + W3Schools
+📂 Código: site_1/
+
 ---
 
 ## 🛠️ Tecnologias
