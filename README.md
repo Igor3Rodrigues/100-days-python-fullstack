@@ -176,12 +176,12 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 ### 📅 Dia 18 - 18/05/2025
 
 ✅ Estudei: Templates com Flask e HTML dinâmico com Jinja2<br>
-📁 Pratiquei: Criação e renderização de templates usando `render_template()`, passando variáveis dinâmicas com `{{ }}` 
+📁 Pratiquei: Criação e renderização de templates usando `render_template()`, passando variáveis dinâmicas com `{{ }}`<br> 
 🧠 Dificuldade: 4/10<br>
 📘 Recursos: Flask Docs, Curso em Vídeo, W3Schools<br>
 📂 Código: meu_site/
 
-### 📅 Dia 19 - 1/05/2025
+### 📅 Dia 19 - 19/05/2025
 
 ✅ Estudei: Herança de templates, DRY (Don't Repeat Yourself) - Reutilizei templates com Jinja2 no Flask!<br> 
 📁 Pratiquei: Criação de base.html e herança com `{% extends %}`<br>
