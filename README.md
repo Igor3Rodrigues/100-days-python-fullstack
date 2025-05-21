@@ -167,27 +167,35 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 
 ### 📅 Dia 17 - 17/05/2025
 
-✅ Estudei: Rotas múltiplas no Flask e ativação do modo debug
-📁 Pratiquei: Criação das rotas /sobre, /contato e /servicos, cada uma com conteúdo próprio
-🧠 Dificuldade: 3/10
-📘 Recursos: Flask Docs
+✅ Estudei: Rotas múltiplas no Flask e ativação do modo debug<br>
+📁 Pratiquei: Criação das rotas /sobre, /contato e /servicos, cada uma com conteúdo próprio<br>
+🧠 Dificuldade: 3/10<br>
+📘 Recursos: Flask Docs<br>
 📂 Código: mini_site_flask.py
 
 ### 📅 Dia 18 - 18/05/2025
 
-✅ Estudei: Templates com Flask e HTML dinâmico com Jinja2
-📁 Pratiquei: Criação e renderização de templates usando `render_template()`, passando variáveis dinâmicas com `{{ }}`  
-🧠 Dificuldade: 4/10
-📘 Recursos: Flask Docs, Curso em Vídeo, W3Schools
+✅ Estudei: Templates com Flask e HTML dinâmico com Jinja2<br>
+📁 Pratiquei: Criação e renderização de templates usando `render_template()`, passando variáveis dinâmicas com `{{ }}`<br> 
+🧠 Dificuldade: 4/10<br>
+📘 Recursos: Flask Docs, Curso em Vídeo, W3Schools<br>
 📂 Código: meu_site/
 
-### 📅 Dia 18 - 18/05/2025
+### 📅 Dia 19 - 19/05/2025
 
-✅ Estudei: Herança de templates, DRY (Don't Repeat Yourself) - Reutilizei templates com Jinja2 no Flask! 
-📁 Pratiquei: Criação de base.html e herança com `{% extends %}`
-🧠 Dificuldade: 4/10
-📘 Recursos: Flask Docs + W3Schools
+✅ Estudei: Herança de templates, DRY (Don't Repeat Yourself) - Reutilizei templates com Jinja2 no Flask!<br> 
+📁 Pratiquei: Criação de base.html e herança com `{% extends %}`<br>
+🧠 Dificuldade: 4/10<br>
+📘 Recursos: Flask Docs + W3Schools<br>
 📂 Código: site_1/
+
+### 📅 Dia 20 - 20/05/2025
+
+✅ Estudei: Layout com uma navbar estilizada, cartões (cards), botões e responsividade<br>
+📁 Pratiquei: Integração via CDN e uso de classes Bootstrap<br>
+🧠 Dificuldade: 4/10<br>
+📘 Recursos: Bootstrap Docs + W3Schools<br>
+📂 Código: site_2/
 
 ---
 
