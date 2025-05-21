@@ -191,10 +191,10 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 
 ### 📅 Dia 20 - 20/05/2025
 
-✅ Estudei: Layout com uma navbar estilizada, cartões (cards), botões e responsividade
-📁 Pratiquei: Integração via CDN e uso de classes Bootstrap
-🧠 Dificuldade: 4/10
-📘 Recursos: Bootstrap Docs + W3Schools
+✅ Estudei: Layout com uma navbar estilizada, cartões (cards), botões e responsividade<br>
+📁 Pratiquei: Integração via CDN e uso de classes Bootstrap<br>
+🧠 Dificuldade: 4/10<br>
+📘 Recursos: Bootstrap Docs + W3Schools<br>
 📂 Código: site_2/
 
 ---
