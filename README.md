@@ -189,6 +189,14 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: Flask Docs + W3Schools<br>
 📂 Código: site_1/
 
+### 📅 Dia 20 - 20/05/2025
+
+✅ Estudei: Layout com uma navbar estilizada, cartões (cards), botões e responsividade
+📁 Pratiquei: Integração via CDN e uso de classes Bootstrap
+🧠 Dificuldade: 4/10
+📘 Recursos: Bootstrap Docs + W3Schools
+📂 Código: site_2/
+
 ---
 
 ## 🛠️ Tecnologias
