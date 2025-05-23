@@ -201,11 +201,19 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 
 ### 📅 Dia 21 - 21/05/2025
 
-✅ Estudei: criação de formulários HTML com Flask.<br>
+✅ Estudei: Criação de formulários HTML com Flask.<br>
 📁 Pratiquei: Criação de formulário para cadastro de usuários com validação de dados<br>
 🧠 Dificuldade: 5/10<br>
 📘 Recursos: Flask Docs + W3Schools<br>
 📂 Código: formulario/
+
+### 📅 Dia 22 - 22/05/2025
+
+✅ Estudei: Estruturação da aplicação de forma organizada<br>
+📁 Pratiquei: Estrutura de projeto + renderização dinâmica de posts.<br>
+🧠 Dificuldade: 5/10<br>
+📘 Recursos: Flask Docs + Projetos GitHub<br>
+📂 Código: meu_blog/
 
 ---
 

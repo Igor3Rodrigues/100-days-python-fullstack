@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Meu Blog com Flask</title>
+  </head>
+  <body>
+    <h1>Bem-vindo ao Meu Blog</h1>
+
+    {% for post in posts %}
+    <h2>{{ post.titulo }}</h2>
+    <p>{{ post.conteudo }}</p>
+    <hr />
+    {% endfor %}
+  </body>
+</html>
