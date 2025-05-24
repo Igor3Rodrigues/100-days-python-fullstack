@@ -215,6 +215,14 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: Flask Docs + Projetos GitHub<br>
 📂 Código: meu_blog/
 
+### 📅 Dia 23 - 23/05/2025
+
+✅ Estudei: Lista de posts simulados usando dicionários e rendenização no template com um laço for do Jinja2<br>
+📁 Pratiquei: Estrutura de dados + renderização condicional com Jinja2.<br>
+🧠 Dificuldade: 5/10<br>
+📘 Recursos: Flask Docs + Exemplos GitHub<br>
+📂 Código: meu_blog/
+
 ---
 
 ## 🛠️ Tecnologias

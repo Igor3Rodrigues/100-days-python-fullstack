@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Blog Flask - Página Inicial</title>
+  </head>
+  <body>
+    <h1>Meu Blog</h1>
+
+    {% for post in posts %}
+    <article>
+      <h2>{{ post.titulo }}</h2>
+      <p><strong>Autor:</strong> {{ post.autor }}</p>
+      <p>{{ post.conteudo }}</p>
+      <hr />
+    </article>
+    {% else %}
+    <p>Nenhum post encontrado.</p>
+    {% endfor %}
+  </body>
+</html>
