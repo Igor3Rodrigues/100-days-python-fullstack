@@ -231,6 +231,14 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: Flask Docs + Projetos GitHub<br>
 📂 Código: meu_blog/
 
+### 📅 Dia 25 - 25/05/2025
+
+✅ Estudei: Estilização final com Bootstrap e layout responsivo.<br>
+📁 Pratiquei: Estilização com Bootstrap, base.html, responsividade.<br>
+🧠 Dificuldade: 5/10<br>
+📘 Recursos: Bootstrap Docs + Projetos open source<br>
+📂 Código: blog/
+
 ---
 
 ## 🛠️ Tecnologias

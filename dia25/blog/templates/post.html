@@ -1,0 +1,9 @@
+{% extends "base.html" %} {% block title %}{{ post.titulo }} | Meu Blog{%
+endblock %} {% block content %}
+<article>
+  <h2>{{ post.titulo }}</h2>
+  <p class="text-muted">Autor: {{ post.autor }}</p>
+  <p>{{ post.conteudo }}</p>
+  <a href="/" class="btn btn-secondary mt-3">← Voltar</a>
+</article>
+{% endblock %}
