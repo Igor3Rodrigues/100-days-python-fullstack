@@ -223,6 +223,14 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: Flask Docs + Exemplos GitHub<br>
 📂 Código: meu_blog/
 
+### 📅 Dia 24 - 24/05/2025
+
+✅ Estudei: Criação de rotas dinâmicas que exibem um post completo baseado no ID passado na URL.<br>
+📁 Pratiquei: Rotas com parâmetros e tratamento de erro 404.<br>
+🧠 Dificuldade: 6/10<br>
+📘 Recursos: Flask Docs + Projetos GitHub<br>
+📂 Código: meu_blog/
+
 ---
 
 ## 🛠️ Tecnologias
