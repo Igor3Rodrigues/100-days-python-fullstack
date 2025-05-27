@@ -239,6 +239,14 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: Bootstrap Docs + Projetos open source<br>
 📂 Código: blog/
 
+### 📅 Dia 26 - 26/05/2025
+
+✅ Estudei: Estrutura de página com HTML semântico, revisando as principais tags (header, main, section, article, aside, footer).<br>
+📁 Pratiquei: Estrutura de página com HTML semântico.<br>
+🧠 Dificuldade: 3/10<br>
+📘 Recursos: MDN Web Docs + W3Schools<br>
+📂 Código: blog/
+
 ---
 
 ## 🛠️ Tecnologias
