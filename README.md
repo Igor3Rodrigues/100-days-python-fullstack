@@ -27,6 +27,12 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 - Formulários, Bootstrap
 - Projeto: Blog básico com Flask
 
+### ✅ Dias 26–30: HTML, CSS e JavaScript
+
+- HTML semântico, CSS moderno
+- JavaScript DOM e eventos
+- Projeto: To-do List interativa
+
 ---
 
 ## 📝 Log Diário
