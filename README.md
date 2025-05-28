@@ -245,7 +245,15 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📁 Pratiquei: Estrutura de página com HTML semântico.<br>
 🧠 Dificuldade: 3/10<br>
 📘 Recursos: MDN Web Docs + W3Schools<br>
-📂 Código: blog/
+📂 Código: to-do-list/
+
+### 📅 Dia 27 - 27/05/2025
+
+✅ Estudei: Estilo com CSS, aplicando variáveis, flexbox, fontes do Google Fonts e responsividade básica.<br>
+📁 Pratiquei: Flexbox, variáveis CSS e layout responsivo.<br>
+🧠 Dificuldade: 4/10<br>
+📘 Recursos: CSS Tricks + MDN<br>
+📂 Código: to-do-list/
 
 ---
 
