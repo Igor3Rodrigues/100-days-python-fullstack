@@ -252,7 +252,6 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 🧠 Dificuldade: 3/10<br>
 📘 Recursos: MDN Web Docs + W3Schools<br>
 📂 Código: to-do-list/
-<<<<<<< HEAD
 
 ### 📅 Dia 27 - 27/05/2025
 
@@ -261,8 +260,14 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 🧠 Dificuldade: 4/10<br>
 📘 Recursos: CSS Tricks + MDN<br>
 📂 Código: to-do-list/
-=======
->>>>>>> 5de60a5c549ae07e01c928686c97cd188445c31e
+
+### 📅 Dia 27 - 27/05/2025
+
+✅ Estudei: Funções para capturar valores do input e adicionar tarefas dinamicamente à lista.<br>
+📁 Pratiquei: querySelector, addEventListener, manipulação DOM.<br>
+🧠 Dificuldade: 5/10<br>
+📘 Recursos: JavaScript.info + MDN<br>
+📂 Código: to-do-list/
 
 ---
 

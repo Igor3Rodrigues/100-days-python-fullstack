@@ -1,30 +1,25 @@
-# 🎨 Dia 27/100 — Estilização com CSS Moderno
+# 🧠 Dia 28/100 — Introdução ao JavaScript e DOM
 
-Hoje estilizei a To-do List com **CSS moderno**, usando boas práticas e foco em responsividade.
+Hoje dei início à parte interativa da To-do List, utilizando **JavaScript puro** para manipular elementos da página e capturar dados do usuário.
 
 ## ✅ O que foi feito:
 
-- Adição de variáveis CSS
-- Layout com Flexbox
-- Estilo visual com cores, fontes e espaçamentos
-- Estilização da lista de tarefas
-- Layout adaptável para mobile (responsivo)
-
-## 🛠️ Arquivo Principal
-
-- `style.css`: folha de estilos principal do projeto
+- Captura de elementos com `querySelector`
+- Manipulação do evento `submit`
+- Inserção de novos itens na lista com `createElement` e `appendChild`
+- Validação de entrada
 
 ## 🧠 Conceitos aplicados
 
-- CSS moderno (variáveis, flexbox, responsividade)
-- Organização visual e usabilidade
-- Design limpo e acessível
+- Eventos do DOM
+- Manipulação de elementos HTML via JS
+- Estrutura básica para lógica da aplicação
 
 ## 📚 Fontes de Estudo
 
-- [CSS Tricks - Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [MDN - CSS Variables](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties)
+- [JavaScript.info - Working with the DOM](https://javascript.info/dom-nodes)
+- [MDN - addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 
 ---
 
-🔜 Próximo passo: integrar **JavaScript** para adicionar tarefas dinamicamente com manipulação do DOM!
+🔜 Próximo passo: permitir marcar tarefas como concluídas e removê-las com eventos!
