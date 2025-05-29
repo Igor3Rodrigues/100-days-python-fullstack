@@ -27,6 +27,12 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 - Formulários, Bootstrap
 - Projeto: Blog básico com Flask
 
+### ✅ Dias 26–30: HTML, CSS e JavaScript
+
+- HTML semântico, CSS moderno
+- JavaScript DOM e eventos
+- Projeto: To-do List interativa
+
 ---
 
 ## 📝 Log Diário
@@ -246,6 +252,7 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 🧠 Dificuldade: 3/10<br>
 📘 Recursos: MDN Web Docs + W3Schools<br>
 📂 Código: to-do-list/
+<<<<<<< HEAD
 
 ### 📅 Dia 27 - 27/05/2025
 
@@ -254,6 +261,8 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 🧠 Dificuldade: 4/10<br>
 📘 Recursos: CSS Tricks + MDN<br>
 📂 Código: to-do-list/
+=======
+>>>>>>> 5de60a5c549ae07e01c928686c97cd188445c31e
 
 ---
 
