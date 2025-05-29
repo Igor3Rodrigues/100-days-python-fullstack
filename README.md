@@ -261,7 +261,7 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: CSS Tricks + MDN<br>
 📂 Código: to-do-list/
 
-### 📅 Dia 27 - 27/05/2025
+### 📅 Dia 28 - 28/05/2025
 
 ✅ Estudei: Funções para capturar valores do input e adicionar tarefas dinamicamente à lista.<br>
 📁 Pratiquei: querySelector, addEventListener, manipulação DOM.<br>
