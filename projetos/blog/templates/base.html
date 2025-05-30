@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{% block title %}Meu Blog{% endblock %}</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
+      <div class="container">
+        <a class="navbar-brand" href="/">Meu Blog</a>
+      </div>
+    </nav>
+
+    <!-- Conteúdo principal -->
+    <div class="container">{% block content %}{% endblock %}</div>
+
+    <!-- Rodapé -->
+    <footer class="bg-light text-center text-muted mt-5 p-3">
+      <p>Desenvolvido no Desafio #100DiasDeCódigo com Flask</p>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,17 @@
+{% extends "base.html" %} {% block title %}Início | Meu Blog{% endblock %} {%
+block content %}
+<h1 class="mb-4">Últimos Posts</h1>
+<div class="row">
+  {% for post in posts %}
+  <div class="col-md-4 mb-4">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">{{ post.titulo }}</h5>
+        <h6 class="card-subtitle text-muted">Autor: {{ post.autor }}</h6>
+        <a href="/post/{{ post.id }}" class="btn btn-primary mt-2">Ler mais</a>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}
