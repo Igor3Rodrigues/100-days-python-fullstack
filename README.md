@@ -261,12 +261,20 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: CSS Tricks + MDN<br>
 📂 Código: to-do-list/
 
-### 📅 Dia 27 - 27/05/2025
+### 📅 Dia 28 - 28/05/2025
 
 ✅ Estudei: Funções para capturar valores do input e adicionar tarefas dinamicamente à lista.<br>
 📁 Pratiquei: querySelector, addEventListener, manipulação DOM.<br>
 🧠 Dificuldade: 5/10<br>
 📘 Recursos: JavaScript.info + MDN<br>
+📂 Código: to-do-list/
+
+### 📅 Dia 29 - 29/05/2025
+
+✅ Estudei: Funções como addEventListener, classList.toggle() e remove() são utilizadas para manipular o DOM e atualizar a interface.<br>
+📁 Pratiquei: Eventos click, classList.toggle(), remove().<br>
+🧠 Dificuldade: 6/10<br>
+📘 Recursos: DevDocs + MDN<br>
 📂 Código: to-do-list/
 
 ---

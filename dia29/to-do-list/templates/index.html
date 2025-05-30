@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To-do List</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='style/style.css') }}"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header>
+      <h1>Minha Lista de Tarefas</h1>
+    </header>
+
+    <main>
+      <section aria-label="Adicionar nova tarefa">
+        <form id="task-form">
+          <input
+            type="text"
+            id="task-input"
+            placeholder="Digite uma nova tarefa"
+            required
+          />
+          <button type="submit">Adicionar</button>
+        </form>
+      </section>
+
+      <section aria-label="Lista de tarefas">
+        <ul id="task-list"></ul>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 To-do App - Desafio 100 Dias de Código</p>
+    </footer>
+
+    <script src="{{ url_for('static', filename='scripts/app.js') }}"></script>
+  </body>
+</html>
