@@ -277,6 +277,30 @@ Estudar e praticar desenvolvimento Full Stack com foco em Python, realizando ati
 📘 Recursos: DevDocs + MDN<br>
 📂 Código: to-do-list/
 
+### 📅 Dia 30 - 30/05/2025
+
+✅ Finalizei: Projeto To-do List com persistência de dados via localStorage, validação de inputs e layout responsivo para dispositivos móveis;<br>
+💻 Pratiquei: localStorage, validação com JavaScript, CSS responsivo;<br>
+🧠 Dificuldade: 6/10;<br>
+📘 Recursos: MDN Web Docs, YouTube (Código Fonte TV);<br>
+📂 Código: todo-list/index.html, app.js, style.css
+
+### 📅 Dia 31 - 31/05/2025
+
+✅ Estudei: Introdução ao SQLite e comandos SQL fundamentais (CREATE, INSERT, SELECT, UPDATE, DELETE);<br>
+💻 Pratiquei: Execução de comandos SQL via terminal e DB Browser for SQLite;<br>
+🧠 Dificuldade: 4/10;<br>
+📘 Recursos: SQLZoo, W3Schools SQL;<br>
+📂 Código: tarefas.db
+
+### 📅 Dia 32 - 01/06/2025
+
+✅ Aprofundei: Relacionamentos entre tabelas utilizando chaves estrangeiras, e realizei consultas com JOIN, WHERE, LIKE, ORDER BY, e LIMIT;<br>
+💻 Pratiquei: Consultas relacionais no SQLite para simular um mini sistema com múltiplas tabelas conectadas;<br>
+🧠 Dificuldade: 5/10;<br>
+📘 Recursos: Mode Analytics SQL Tutorial, SQLite Documentation;<br>
+📂 Código: tarefas.db
+
 ---
 
 ## 🛠️ Tecnologias
